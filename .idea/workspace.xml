@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0167b22c-3bf5-4bc4-ac72-b99371386082" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CreateContact.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/ContactsAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ContactsAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImageInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImageInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListContacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListContacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +28,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1u3NPAV1s2fkHOZadxexAwAykoA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,11 +65,32 @@
       <workItem from="1624980234788" duration="1201000" />
       <workItem from="1625181829076" duration="457000" />
       <workItem from="1626555424451" duration="676000" />
-      <workItem from="1626630581094" duration="432000" />
+      <workItem from="1626630581094" duration="5926000" />
+      <workItem from="1626710001851" duration="4264000" />
+      <workItem from="1626818747107" duration="238000" />
+      <workItem from="1627400987521" duration="611000" />
+      <workItem from="1627509734701" duration="599000" />
+      <workItem from="1627873136796" duration="746000" />
+      <workItem from="1627951032212" duration="1834000" />
+      <workItem from="1628040209236" duration="599000" />
+      <workItem from="1628080468089" duration="599000" />
+      <workItem from="1628177599774" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
